@@ -11,6 +11,8 @@ prediction_plot|stem|a20f266f7641e99f|292929d4eaea5815|2cff85202d2c6787|11769138
 random_forest|stem|f0082ad66972d626|5688715e40fc3beb|3edd2880db65c54b|475790485||t19375.727775783s||6717791|rds|local|vector|||0.01||could not find function model
 res_plot|function|19f8d077ad675633|||||||||||||||
 rf|stem|2f390a7e47dcc493|3c9c0198a849e250|8d881bd9227cb45c|-60328888||t19375.5842700237s|75b1ff15e676ed4f|6703296|rds|local|vector|||12.73||
+save_plot|function|018760166715daa7|||||||||||||||
+saved_plot|stem|70a714aaa9b0b38c|04abb44784c803d9|d3bc4ba5dd1a4a1c|1518278070|fig/pred_vs_actual.png|t19376.4391561688s|451c2cf4af12cf05|141758|file|local|vector|||0.55||
 test|function|3b63f2b89a8703b9|||||||||||||||
 test_data|stem|c3a731c65b26d16a|ae02028a38689b1d|70c3425918b984d5|-1511294507||t19375.9488620534s|d3360b1cfc1c99fb|4326|rds|local|vector|||0.04||
 test_set|function|3b63f2b89a8703b9|||||||||||||||

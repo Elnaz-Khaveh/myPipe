@@ -19,3 +19,8 @@ pred <- function(train_set,test_set){
 res_plot <- function(pred,test){
   myPack::pred_plot(pred,test)
 }
+
+save_plot <- function(save_path, plot){
+  ggsave(save_path, plot)
+  save_path
+}

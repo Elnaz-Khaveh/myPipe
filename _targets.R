@@ -24,5 +24,12 @@ list(
     predicted, pred(train_data,test_data)),
 
   tar_target(
-    prediction_plot, res_plot(predicted,test_data))
+    prediction_plot, res_plot(predicted,test_data)),
+
+  tar_target(
+    saved_plot,
+    save_plot("fig/pred_vs_actual.png", prediction_plot),
+    format = "file"
+  )
+
   )
