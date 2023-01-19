@@ -18,5 +18,4 @@ pred <- function(train_set,test_set){
 
 res_plot <- function(pred,test){
   myPack::pred_plot(pred,test)
-
 }
